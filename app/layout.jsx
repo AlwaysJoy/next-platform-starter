@@ -14,6 +14,7 @@ export default function RootLayout({ children }) {
         <html lang="en" data-theme="lofi">
             <head>
                 <link rel="icon" href="/favicon.svg" sizes="any" />
+                <meta name="google-site-verification" content="1_Wu9B-sO6wXbp1yud48ju5mgmmfm0X0bKuNUzj24-E" />
             </head>
             <body className="antialiased text-white bg-blue-900">
                 <div className="flex flex-col min-h-screen px-6 bg-grid-pattern sm:px-12">
